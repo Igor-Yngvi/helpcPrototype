@@ -87,6 +87,10 @@
 	color: #fff;
 }
 
+.menu ul li a img {
+	width: 20px;
+}
+
 @media(max-width: 700px) {
 	.menu {
 		display: none;
@@ -199,6 +203,10 @@
 		text-align: center;
 		filter: drop-shadow(0 0 5px #000000a1);
 	}
+}
+
+svg {
+	color: #fff;
 }
 
 main {
