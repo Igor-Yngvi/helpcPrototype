@@ -5,7 +5,7 @@
         autor: "Fernando Matos"
       },
       {
-        frase: "A verdadeira elegância não está na roupa que veste, está na ajuda dada ao próximo, na honestidade e na palavra honrada. Ser elegante é ter caráter.",
+        frase: "A verdadeira elegância não está na roupa que veste, está na ajuda dada ao próximo, na honestidade e na palavra honrada.",
         autor: "Scheila F. Scisloski"
       },
       {
@@ -13,16 +13,12 @@
         autor: "Lucas xavier"
       },
       {
-        frase: "A prece maior a gente não faz ajoelhado, a gente faz é ajudando o próximo...!",
+        frase: "A prece maior a gente não faz ajoelhado, a gente faz é ajudando o próximo!",
         autor: "Marta Souza"
       },
       {
-        frase: "A melhor maneira de ultrapassarmos nossas dificuldades é ajudar o próximo, com sinceridade e amor, a resolver o problema dele.A melhor maneira de ultrapassarmos nossas dificuldades é ajudar o próximo, com sinceridade e amor, a resolver o problema dele.",
+        frase: "A melhor maneira de ultrapassarmos nossas dificuldades é ajudar o próximo, com sinceridade e amor.",
         autor: "Leandro Tugumi"
-      },
-      {
-        frase: "Se você considera que ajudar o próximo é desperdiçar um minuto do seu tempo ocioso, pense que para outra pessoa um minuto pode ser tudo o que lhe resta.",
-        autor: "Mayara Vellardi"
       },
       {
         frase: "Para ajudar o próximo não há necessidade de alto-falante.",
@@ -37,7 +33,7 @@
         autor: "Sónia Costa Rodrigues"
       },
       {
-        frase: "Ajudar o próximo nunca foi uma opção, mas sempre foi um destaque entre muitos, ser humilde não é sinal de fraqueza, é uma forma de pensar melhor e saber que poderíamos ser nós em um vida injusta.",
+        frase: "Ajudar ao próximo não é sinal de fraqueza.",
         autor: "Sayure"
       },
       {
