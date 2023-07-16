@@ -20,11 +20,9 @@
 }
 
 .forms-content {
-    width: 560px;
-    height: 80vh;
+    width: 50%;
+    height: 100vh;
     padding: 36px 50px;
-    box-shadow: 0 1px 4px rgba(0,0,0,.05), 0 4px 16px rgba(0,0,0,.06);
-    border-radius: 8px;
     align-self: center;
 }
 
@@ -38,4 +36,9 @@
 .facebook {
     background: #4065b4;
     color: #fff;
+}
+
+.complement {
+    width: 50%;
+    height: 100vh;
 }
